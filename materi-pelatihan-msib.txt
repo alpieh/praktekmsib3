@@ -1,6 +1,6 @@
-kumpilan matero MSIB Batch 
+kumpilan materi MSIB Batch 
 HTML
 CSS
-JAVAScript
-PHP
+Java Script
+PHP Native
 Database MYSQL
